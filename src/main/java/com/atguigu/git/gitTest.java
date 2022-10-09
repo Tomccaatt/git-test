@@ -23,5 +23,6 @@ public class gitTest {
         System.out.println("crm test");
         System.out.println("crm test");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
