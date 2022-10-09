@@ -17,5 +17,10 @@ public class gitTest {
         System.out.println("master test");
         System.out.println("master test");
         System.out.println("master test");
+        System.out.println("crm test");
+        System.out.println("crm test");
+        System.out.println("crm test");
+        System.out.println("crm test");
+        System.out.println("crm test");
     }
 }
